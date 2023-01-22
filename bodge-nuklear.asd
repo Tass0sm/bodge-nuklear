@@ -4,7 +4,7 @@
   :author "Pavel Korolev"
   :mailto "dev@borodust.org"
   :license "MIT"
-  :depends-on (:alexandria :cffi :cffi-c-ref :bodge-nuklear-bindings)
+  :depends-on (:alexandria :cffi :cffi-c-ref :claw :bodge-nuklear-bindings)
   :serial t
   :pathname "src/"
   :components ((:file "packages")
